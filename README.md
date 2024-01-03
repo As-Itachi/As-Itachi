@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, My name is Danijel
 #### Development
 ![Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
